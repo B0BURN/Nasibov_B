@@ -28,7 +28,7 @@ if __name__ == "__main__":
     funx()
     func()
 
-    kwargsAcceptFun(name="Bobur", age=20, profession="Economist")
+    kwargsAcceptFun(name="Bobur", age=20, majot="Economics")
 
     transformed = typeBasedTransformer(
         num=31,
